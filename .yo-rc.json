@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "eRSS",
+    "packageName": "com.ais.erss",
+    "packageFolder": "com/ais/erss",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "7d63b66ba745e35136d32a8aff2b290a4c5f0e69",
+    "testFrameworks": [
+      "protractor"
+    ]
+  }
+}
